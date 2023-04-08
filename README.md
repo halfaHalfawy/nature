@@ -9,7 +9,7 @@ Naturely is a mobile application created using Flutter that allows users to expl
 Here are some screenshots of the app:
 
 ### Light Mode
-![Light Mode](screenshots/light_mode.gif)
+![Light Mode](screens/first.gif)
 
 ### Dark Mode
 ![Dark Mode](screenshots/dark_mode.gif)
@@ -32,7 +32,7 @@ Here are some screenshots of the app:
 
 We welcome contributions from everyone! Here are some ways you can contribute:
 
-- Report bugs and issues: If you find any bugs or issues with the app, please let us know by opening an issue on our [GitHub repository](https://github.com/yourusername/naturely_app).
+- Report bugs and issues: If you find any bugs or issues with the app, please let us know by opening an issue on our [GitHub repository](https://github.com/halfaHalfawy/naturely).
 - Suggest new features: If you have an idea for a new feature, please let us know by opening an issue on our [GitHub repository](https://github.com/yourusername/naturely_app).
 - Submit code changes: If you want to contribute code to the project, please submit a pull request on our [GitHub repository](https://github.com/yourusername/naturely_app).
 
