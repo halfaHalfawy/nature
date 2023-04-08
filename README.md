@@ -25,14 +25,14 @@ Here are some screenshots of the app:
 - RestAPI
 - CachedNetworkImage
 - GetX
-
+<!--
 ## Contributions
 
 We welcome contributions from everyone! Here are some ways you can contribute:
 
-- Report bugs and issues: If you find any bugs or issues with the app, please let us know by opening an issue on our [GitHub repository](https://github.com/halfaHalfawy/naturely).
-- Suggest new features: If you have an idea for a new feature, please let us know by opening an issue on our [GitHub repository](https://github.com/yourusername/naturely_app).
-- Submit code changes: If you want to contribute code to the project, please submit a pull request on our [GitHub repository](https://github.com/yourusername/naturely_app).
+- Report bugs and issues: If you find any bugs or issues with the app, please let us know by opening an issue on our [GitHub repository](https://github.com/halfaHalfawy/nature).
+- Suggest new features: If you have an idea for a new feature, please let us know by opening an issue on our [GitHub repository](https://github.com/halfaHalfawy/nature).
+- Submit code changes: If you want to contribute code to the project, please submit a pull request on our [GitHub repository](https://github.com/halfaHalfawy/nature).
 
 ## Installation
 
@@ -40,6 +40,9 @@ To download the app, please visit the following link: [link to app](https://exam
 
 
 
+
 ## Conclusion
 
 Thank you for using Naturely App! If you have any feedback or suggestions, please feel free to reach out to us.
+
+!-->
