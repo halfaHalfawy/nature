@@ -8,11 +8,9 @@ Naturely is a mobile application created using Flutter that allows users to expl
 
 Here are some screenshots of the app:
 
-### Light Mode
-![Light Mode](screens/first.gif)
+<img src="./screens/first.gif" width="20%" height="20%"/> <img src="./screens/secondgif.gif" width="20%" height="20%"/>
+ <img src="./screens/fin.gif" width="20%" height="20%"/>
 
-### Dark Mode
-![Dark Mode](screenshots/dark_mode.gif)
 
 ## Features
 
