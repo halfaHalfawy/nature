@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Naturely is a mobile application created using Flutter that allows users to explore beautiful places around the world. The app uses RestAPI to fetch the data and CachedNetworkImage to cache images for better performance. It also has dark and light modes, and is built using GetX for state management.
+Naturely is a very simple mobile application created using Flutter that allows users to explore beautiful places around the world. The app uses RestAPI to fetch the data and CachedNetworkImage to cache images for better performance. It also has dark and light modes, and is built using GetX for state management.
 
 ## Screenshots
 
